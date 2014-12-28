@@ -166,7 +166,9 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
 
 =begin html
 
-<img src="https://raw.githubusercontent.com/tupinek/Map-Tube-NizhnyNovgorod/master/images/NizhnyNovgorod.png" alt="Нижегородский метрополитен" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-NizhnyNovgorod/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-NizhnyNovgorod/master/images/ex3.png" alt="Нижегородский метрополитен" width="300px" height="300px" />
+</a>
 
 =end html
 
