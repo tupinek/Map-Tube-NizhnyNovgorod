@@ -21,6 +21,7 @@ META.yml
 NizhnyNovgorod.pm
 README
 share/nizhny_novgorod-map.xml
+SIGNATURE
 t/Map-Tube-NizhnyNovgorod/00-use.t
 t/Map-Tube-NizhnyNovgorod/01-version.t
 t/Map-Tube-NizhnyNovgorod/02-pod_coverage.t
