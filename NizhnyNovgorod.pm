@@ -153,7 +153,7 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
          'callback_node' => \&node_color_without_label,
          'driver' => 'neato',
          'tube' => $obj,
- ); 
+ );
 
  # Get graph to file.
  $g->graph('NizhnyNovgorod.png');
