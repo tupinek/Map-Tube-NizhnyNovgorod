@@ -98,7 +98,7 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
 
 =item C<xml()>
 
- Get XML specification of NizhnyNovgorod metro.
+ Get XML specification of Nizhny Novgorod metro.
  Returns string with XML.
 
 =back

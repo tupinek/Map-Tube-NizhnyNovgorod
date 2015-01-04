@@ -53,7 +53,7 @@ METHODS
              Returns string with metro name.
 
     "xml()"
-             Get XML specification of NizhnyNovgorod metro.
+             Get XML specification of Nizhny Novgorod metro.
              Returns string with XML.
 
 EXAMPLE1
