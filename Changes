@@ -1,5 +1,6 @@
 0.02
  - Add Map::Tube::Graph to SEE ALSO section in doc.
+ - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Fix xml() method description in doc.
  - Update copyright years to 2015.
 
