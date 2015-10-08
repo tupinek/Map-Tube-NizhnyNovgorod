@@ -1,5 +1,6 @@
 0.02
  - Add <?xml> header to XML document.
+ - Add 04-map.t test.
  - Fix xml() method description in doc.
  - Move author tests to xt/ directory.
  - Rewrite SEE ALSO section to new style.
