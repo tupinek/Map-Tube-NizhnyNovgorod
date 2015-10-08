@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,44 +14,50 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 75de3ff3981216dfda923503a5e8c1e00d9dc069 Changes
+SHA1 34492d84971152d8a9937b51185f97113a89e0d1 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
-SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
-SHA1 e70081b88068b33abc896893ec34df18dcfcf79a MANIFEST
-SHA1 097978f58316947bb1f0399d0743eac9d4391a39 META.yml
-SHA1 9e5f59bd785292b665ac4b06d63c66f53581a35a Makefile.PL
-SHA1 5bc7d306ef9dc928c932c3b82ef03b21440a1be4 NizhnyNovgorod.pm
-SHA1 22615e7da8c35dff02d37d41178fdbc80d963198 README
+SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
+SHA1 524cd7596e0eb9af310d32ac00311452ad9eb73e MANIFEST
+SHA1 8f0f336a29c99bffbd5ab60007305cff5d2b7020 META.yml
+SHA1 cbd053e37a92a03a4dcd515ec9203c9f31b524d0 Makefile.PL
+SHA1 90bea652b059ff754505535f1fbf9631093bd1b1 NizhnyNovgorod.pm
+SHA1 bf82172f37479a17236c25ff6d66c77feda263a2 README
 SHA1 d470c71b4d2d8c73f891c0e1f928409231709ba0 examples/ex1.pl
 SHA1 8d59bba2b1b0cd9f321459ae25b7b63d2e904a05 examples/ex2.pl
 SHA1 658f6b8df40bed8a48618368e03aecd39b40271d examples/ex3.pl
+SHA1 a55ecf522aca68ac5e736ded4596738c60796c04 examples/ex4.pl
 SHA1 9d1d09adc1618aaf1fc064ba132248e783d58297 images/ex3.png
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
+SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 986984b0469a202ae15ea487cc55af29565afd3f share/nizhny_novgorod-map.xml
-SHA1 0c0bc05801f1a548a02b546394bf97e6375d87a9 t/Map-Tube-NizhnyNovgorod/00-use.t
-SHA1 aa44e7f8b529e24d4170e47cd83caab878599e1a t/Map-Tube-NizhnyNovgorod/01-version.t
-SHA1 1d749c6a1635206f382208b14e70343b24fbf2ca t/Map-Tube-NizhnyNovgorod/02-pod_coverage.t
-SHA1 c7c0551d6163c02f142074d15f791a62ded0654a t/Map-Tube-NizhnyNovgorod/03-pod.t
-SHA1 b1ea1607581e7e91d44bf8fa7131d679b2451de9 t/Map-Tube-NizhnyNovgorod/04-get_shortest_route.t
-SHA1 eecde73eb5a7ff30aa39ecaca420a306dd9a62b5 t/Map-Tube-NizhnyNovgorod/05-name.t
-SHA1 bfd8b0553c76b486a1de21ab46c1a7bdfc5d35c5 t/Map-Tube-NizhnyNovgorod/06-xml.t
+SHA1 42de62df31eaf796d8bfd49a11fdc9cff1b50b74 inc/Module/Install/Share.pm
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
+SHA1 3e2f81bc59439b7d3e31c8185e4cece379a3d724 share/nizhny_novgorod-map.xml
+SHA1 0c0bc05801f1a548a02b546394bf97e6375d87a9 t/Map-Tube-NizhnyNovgorod/01-use.t
+SHA1 e5373b831d34b888a0936213cb29a8bdedd1bc65 t/Map-Tube-NizhnyNovgorod/02-version.t
+SHA1 12126da09ebced5834d063334d0b4577093cd1d7 t/Map-Tube-NizhnyNovgorod/03-map.t
+SHA1 c1504fa72374f7f20f4e8015d10f5a70a9704b06 t/Map-Tube-NizhnyNovgorod/04-get_node_by_id.t
+SHA1 8779e7c22395029d9bd1f711ccd8fca42a88cc5a t/Map-Tube-NizhnyNovgorod/05-get_node_by_name.t
+SHA1 e777c4e9f77eeb7351e9db03daf1338f562bdb37 t/Map-Tube-NizhnyNovgorod/06-get_shortest_route.t
+SHA1 9b4bf6e8917824f3175950e66bbc7f7561f42d50 t/Map-Tube-NizhnyNovgorod/07-name.t
+SHA1 db73703ca8d5ce1cc5de2c02361f4c2570140a4e t/Map-Tube-NizhnyNovgorod/08-xml.t
+SHA1 1d749c6a1635206f382208b14e70343b24fbf2ca xt/Map-Tube-NizhnyNovgorod/01-pod_coverage.t
+SHA1 c7c0551d6163c02f142074d15f791a62ded0654a xt/Map-Tube-NizhnyNovgorod/02-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUoGUIAAoJEAwa+cf4dLBaXWcIAIe0GGsPas7Snfozrkc462RG
-YLrj7Fhh3pTrYVExbIZOp9rDqPTnHO8GwUdtPC+VE7VJz9ilk71KXWNE7glMikpd
-2ZM3I/o4Kk8QXG5DrqmuZ916HGsnoBuT6O66LvwAe5QMMpEPCqAg3HMKZCJHS6eU
-DwV9Cs3kdavneyJHQxTOml3ugA4JL5zyRpo0XbUtOWTUjqHMhtsI6t6VTrVvjb9m
-xX3N2NirfNtswWtQ3CZRpWULlZjc4aSG0ZdCfGr8JuFKjS2VQoocwfj1u1IB5oAa
-yosK/FdLkvUrN1oBYoW8Gc513yqLnKnEUFnVNvEOrW2xvM7I/r7SAH+ESGntioY=
-=ViVu
+iQEcBAEBAgAGBQJWFhuEAAoJEJe+XXKaIuTlSskIAL9OPXOfkoXbRRY0RAxoJkHb
+AAsgJe0/B4l/8FvtL3NGKgmgyjVIuYd80DsD+PhvcRNpvlKykoe6XtqZ+sFNXvy6
+YlKXX7CEc1wsuXu2dA2Qe0QB00WjKyiBy+V0RneMdbCyKnBocjWZqlyIIwWGcbSe
+sc64Um/rd3JwX6czGY/AnHYmsCFYg0KInoE/B04aWQgeek0uxtPub98nkA17Yu9l
+cJT6pASTYXJGbCNaP5HR1kPO34oD04dmDJau5I6r5/Ct2Pl49l9apEyU6OqERelW
+UCK3/Ol7zDCqIVGncc1GacSbMHeB2GS2ZQHqY0OGWARCAuwe+c1+dEhC9w6EInQ=
+=6nwB
 -----END PGP SIGNATURE-----
