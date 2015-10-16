@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ru.wikipedia.org/wiki/Нижегородский_метрополитен -->
 <tube name="Нижегородский метрополитен">
-  <!-- https://ru.wikipedia.org/wiki/Нижегородский_метрополитен -->
+  <lines>
+    <line id="M1" name="Автозаводская линия" color="red"/>
+    <line id="M2" name="Сормовская линия" color="blue"/>
+  </lines>
   <stations>
     <!-- Junctions -->
     <station id="МОСКОВСКАЯ" name="Московская" line="Автозаводская линия,Сормовская линия" link="1-01,1-03,2-02"/>
